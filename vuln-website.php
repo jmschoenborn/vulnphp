@@ -1,5 +1,6 @@
 <?php
 // Configuration for the database connection
+// Test
 $servername = "localhost";
 $username = "root";
 $password = "";
